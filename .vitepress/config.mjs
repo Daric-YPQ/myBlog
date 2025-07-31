@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "daricyang's 知识库网站",
   description: "知识库网站",
-  base: '/web/',
+  base: "/myBlog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outlineTitle: '大纲', // 文档内容目录标题
